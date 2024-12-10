@@ -1,3 +1,4 @@
+#wordcount.
 import click
 
 DELIMITERS = ". , ; : ? $ @ ^ < > # % ` ! * - = ( ) [ ] { } / \" '".split()
